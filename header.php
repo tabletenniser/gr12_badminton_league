@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>TDSB Badminton League</title>
+<style>
+<!--
+@import url(style.css);
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<div id="content">
